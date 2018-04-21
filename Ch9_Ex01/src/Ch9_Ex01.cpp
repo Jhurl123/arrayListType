@@ -1,8 +1,8 @@
 //============================================================================
 // Name        : Ch9_Ex01.cpp
-// Author      : 
+// Author      : Justin Hurley
 // Version     :
-// Copyright   : Your copyright notice
+// Copyright   :
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
@@ -24,8 +24,7 @@ int main()
 				//declare the variables
 				int userInput = 0;
 				int numLocation = 0;
-
-				//int first = myIntList.list[0];
+			
 
 
 			cout << "WELCOME TO THE ARRAY POSITION FINDER";
@@ -74,6 +73,24 @@ void printListInfo(arrayListType<int>& passedList)
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
